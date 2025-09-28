@@ -5,7 +5,7 @@ Chest X-ray pneumonia classification using DenseNet121 and deep learning
 
 🩺 Pneumonia Detection from Chest X-Rays using DenseNet121
 
-📌 Overview
+### 📌 Overview
 
 Early detection of Pneumonia from chest X-rays is crucial for saving lives.
 In this project, I built and fine-tuned a DenseNet121-based CNN model to classify chest X-rays as:
@@ -14,7 +14,7 @@ Pneumonia
 The model achieved strong performance while keeping the architecture efficient.
 
 
-⚙️ Dataset
+### ⚙️ Dataset
 Source: Kaggle Chest X-Ray Pneumonia Dataset
 
 Total images: ~5,800
@@ -26,7 +26,7 @@ Validation: 16
 Test: 624
 
 
-🧠 Why DenseNet121?
+### 🧠 Why DenseNet121?
 
 DenseNet introduces dense connectivity — each layer receives inputs from all previous layers.
 ✅ Encourages feature reuse
@@ -35,7 +35,7 @@ DenseNet introduces dense connectivity — each layer receives inputs from all p
 ✅ Proven strong performance on image classification tasks
 
 
-🔧 Methodology
+### 🔧 Methodology
 
 Preprocessing
 Image resizing to 224×224
@@ -51,7 +51,7 @@ Precision, Recall, F1-score
 Confusion Matrix
 
 
-📊 Results
+### 📊 Results
 
 Metric	Value
 
@@ -65,7 +65,7 @@ F1-score	90.2%
 
 
 
-🔮 Future Improvements
+### 🔮 Future Improvements
 
 Train longer (30–50 epochs) with early stopping
 
@@ -75,5 +75,13 @@ Apply Grad-CAM for explainable AI (visualizing heatmaps)
 
 Use larger, more diverse datasets
 
-The trained DenseNet121 model (~38 MB) can be downloaded here:  
+### The trained DenseNet121 model (~38 MB) can be downloaded here:  
 [Download densenet_pneumonia.keras](https://drive.google.com/file/d/1YEGf4MAec4UnT4Yp4G1Uz7VBCl4WG1NW/view?usp=sharing)
+
+
+### Accuracy & Loss Curves (Without Fine-Tuning)
+![Without Fine-Tuning](https://drive.google.com/file/d/1tDBP84alwSrDa-QbHAG9b9Zx9eY9SiSE/view?usp=drive_link)
+
+### Accuracy & Loss Curves (After Fine-Tuning)
+![Final Comparison](https://drive.google.com/file/d/1HHVMgqmPt_X86Zz7XrEzOJx7Dya_6voW/view?usp=drive_link)
+
