@@ -78,10 +78,3 @@ Use larger, more diverse datasets
 ### The trained DenseNet121 model (~38 MB) can be downloaded here:  
 [Download densenet_pneumonia.keras](https://drive.google.com/file/d/1YEGf4MAec4UnT4Yp4G1Uz7VBCl4WG1NW/view?usp=sharing)
 
-
-### Accuracy & Loss Curves (Without Fine-Tuning)
-![Without Fine-Tuning](https://drive.google.com/file/d/1tDBP84alwSrDa-QbHAG9b9Zx9eY9SiSE/view?usp=sharing)
-
-### Accuracy & Loss Curves (After Fine-Tuning)
-![Final Comparison](https://drive.google.com/file/d/1HHVMgqmPt_X86Zz7XrEzOJx7Dya_6voW/view?usp=drive_link)
-
