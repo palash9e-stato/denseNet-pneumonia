@@ -80,7 +80,7 @@ Use larger, more diverse datasets
 
 
 ### Accuracy & Loss Curves (Without Fine-Tuning)
-![Without Fine-Tuning](https://drive.google.com/file/d/1tDBP84alwSrDa-QbHAG9b9Zx9eY9SiSE/view?usp=drive_link)
+![Without Fine-Tuning](https://drive.google.com/file/d/1tDBP84alwSrDa-QbHAG9b9Zx9eY9SiSE/view?usp=sharing)
 
 ### Accuracy & Loss Curves (After Fine-Tuning)
 ![Final Comparison](https://drive.google.com/file/d/1HHVMgqmPt_X86Zz7XrEzOJx7Dya_6voW/view?usp=drive_link)
