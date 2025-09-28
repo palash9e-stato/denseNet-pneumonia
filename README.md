@@ -54,10 +54,15 @@ Confusion Matrix
 📊 Results
 
 Metric	Value
+
 Training Accuracy	97.1%
+
 Validation Accuracy	87.5%
+
 Test Accuracy	86.7%
+
 F1-score	90.2%
+
 
 
 🔮 Future Improvements
