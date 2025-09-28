@@ -15,6 +15,7 @@ The model achieved strong performance while keeping the architecture efficient.
 
 ⚙️ Dataset
 Source: Kaggle Chest X-Ray Pneumonia Dataset
+
 Total images: ~5,800
 Train: 5,216
 Validation: 16
@@ -22,6 +23,7 @@ Test: 624
 
 
 🧠 Why DenseNet121?
+
 DenseNet introduces dense connectivity — each layer receives inputs from all previous layers.
 ✅ Encourages feature reuse
 ✅ Reduces number of parameters compared to ResNet
