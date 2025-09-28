@@ -6,6 +6,7 @@ Chest X-ray pneumonia classification using DenseNet121 and deep learning
 🩺 Pneumonia Detection from Chest X-Rays using DenseNet121
 
 📌 Overview
+
 Early detection of Pneumonia from chest X-rays is crucial for saving lives.
 In this project, I built and fine-tuned a DenseNet121-based CNN model to classify chest X-rays as:
 Normal
