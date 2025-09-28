@@ -68,8 +68,11 @@ F1-score	90.2%
 🔮 Future Improvements
 
 Train longer (30–50 epochs) with early stopping
+
 Try EfficientNet for better efficiency
+
 Apply Grad-CAM for explainable AI (visualizing heatmaps)
+
 Use larger, more diverse datasets
 
 The trained DenseNet121 model (~38 MB) can be downloaded here:  
