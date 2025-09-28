@@ -48,6 +48,7 @@ Confusion Matrix
 
 
 📊 Results
+
 Metric	Value
 Training Accuracy	97.1%
 Validation Accuracy	87.5%
@@ -61,3 +62,5 @@ Try EfficientNet for better efficiency
 Apply Grad-CAM for explainable AI (visualizing heatmaps)
 Use larger, more diverse datasets
 
+The trained DenseNet121 model (~38 MB) can be downloaded here:  
+[Download densenet_pneumonia.keras](https://drive.google.com/file/d/1YEGf4MAec4UnT4Yp4G1Uz7VBCl4WG1NW/view?usp=sharing)
