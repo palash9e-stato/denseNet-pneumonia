@@ -18,8 +18,11 @@ The model achieved strong performance while keeping the architecture efficient.
 Source: Kaggle Chest X-Ray Pneumonia Dataset
 
 Total images: ~5,800
+
 Train: 5,216
+
 Validation: 16
+
 Test: 624
 
 
